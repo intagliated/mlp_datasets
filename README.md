@@ -6,7 +6,7 @@ Assignment|Description | Raw File |
 Practice Assignment-1      |Airline Data - Indian Cities  (Data Preprocessing)| [bit.ly/airlines_mlp_pa1](http://bit.ly/airlines_mlp_pa1) |
 Graded Assignment 1.1, 1.2 |Housing Price Data |[bit.ly/housing_prices_mlp_ga1](https://bit.ly/housing_prices_mlp_ga)
 
-### Other Datasets 📊 
+### Other Datasets 🗂 
 
 Lecture |Description | Raw File |
 -------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
