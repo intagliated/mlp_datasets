@@ -10,7 +10,7 @@ Graded Assignment 1.1, 1.2 |Housing Price Data |[bit.ly/housing_prices_mlp_ga1](
 
 Lecture |Description | Raw File |
 -------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
-L3.9   | Heart Disease  (Data Imputation)| [bit.ly/heart_disease_mlp_week3](https://bit.ly/mlp_heart_disease_week3) |
+L3.9   | Heart Disease  (Data Imputation)| [bit.ly/heart_disease_L3_9](https://bit.ly/mlp_heart_data_L3_9) |
  <!--Graded Assignment 1.1, 1.2 |Housing Price Data |[bit.ly/housing_prices_mlp_ga1](https://bit.ly/housing_prices_mlp_ga1)
 
 [drinks.csv](data/drinks.csv) | Alcohol consumption by country | [bit.ly/drinksbycountry](http://bit.ly/drinksbycountry) | [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/alcohol-consumption) | [FiveThirtyEight article](http://fivethirtyeight.com/datalab/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/)
