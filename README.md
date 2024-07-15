@@ -1,10 +1,11 @@
 ## Machine Learning Practices
 ### Assignment Datasets 📊 
 
-Assignment                  |Description                                        | Raw File |
---------------------------  | ------------------------------------------------- | --------------------------------------------------------- |
-Practice Assignment-1       |Airline Data - Indian Cities  (Data Preprocessing) | [bit.ly/airlines_mlp_pa1](http://bit.ly/airlines_mlp_pa1) |
-Graded Assignment 1.1, 1.2  |Housing Price Data |[bit.ly/housing_prices_mlp_ga1](https://bit.ly/housing_prices_mlp_ga)
+Assignment                      | Description                                          | Raw File |
+--------------------------      | -------------------------------------------------   | --------------------------------------------------------- |
+Practice Assignment-1           |Airline Data - Indian Cities  (Data Preprocessing)   | [bit.ly/airlines_mlp_pa1](http://bit.ly/airlines_mlp_pa1) |
+Graded Assignment 1.1, 1.2      |Housing Price Data                                   |[bit.ly/housing_prices_mlp_ga1](https://bit.ly/housing_prices_mlp_ga)
+Practice , Graded Assignment -3 |Random Data (Data Preprocessing)                     |[bit.ly/mlp_pa_ga_3](https://bit.ly/mlp_pa_ga_3)
 
 ### Other Datasets 🗂 
 
